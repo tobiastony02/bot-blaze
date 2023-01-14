@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" height="80%" src=".github/assets/logo.png" alt="Blaze Tools @caioagiani"></a>
+  <img width="100" height="80%" src=".github/assets/logo.png" alt="Blaze Tools @tobiastony02"></a>
 </p>
 
 <h3 align="center">Blaze Bot - Tools</h3>
@@ -15,7 +15,7 @@
 
 ```bash
 # Baixar projeto
-$ git clone git@github.com:caioagiani/blaze-bot.git
+$ git clone git@github.com:tobiastony02/bot-blaze.git
 
 # Configurar .env
 $ cp .env.example .env
@@ -35,5 +35,4 @@ $ yarn dev ou npm run dev
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/caioagiani/)
-- caio.agiani14@gmail.com
+- tobiastony02@gmail.com
