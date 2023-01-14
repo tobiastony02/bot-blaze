@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" height="80%" src=".github/assets/logo.png" alt="Blaze Tools @tobiastony02"></a>
+  <img width="100" height="80%" src="https://github.com/tobiastony02/bot-blaze/raw/main/.github/assets/logo.png" alt="Blaze Tools @tobiastony02"></a>
 </p>
 
 <h3 align="center">Blaze Bot - Tools</h3>
